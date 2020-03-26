@@ -1,0 +1,80 @@
+:title: ISR Extended Attributes
+:type: subMetadataReference
+:order: 112
+:parent: Catalog Taxonomy Definitions
+:status: published
+:summary: Attributes in this group relate to intelligence, search, and reconnaissance.
+
+= ISR Extended Attributes
+
+.ISR Extended Attributes: Attributes in this group relate to intelligence, search, and reconnaissance. *Injected by default.*
+[cols="1,2,1,1,1" options="header"]
+|===
+|Term
+|Definition
+|Datatype
+|Constraints
+|Example Value
+
+|[[_ext.metadata-originator-classification]]ext.metadata-originator-classification
+|Attribute name for accessing the metadata originator classification.
+|String
+|
+|
+
+|[[_ext.metadata-classification]]ext.metadata-classification
+|Attribute name for accessing the metadata classification.
+|String
+|
+|
+
+|[[_ext.metadata-classification-system]]ext.metadata-classification-system
+|Attribute name for accessing the security classification system for the metadata.
+|String
+|
+|
+
+|[[_ext.metadata-dissemination-controls]]ext.metadata-dissemination-controls
+|Attribute name for accessing the metadata dissemination controls.
+|String
+|
+|
+
+|[[_ext.metadata-releasability]]ext.metadata-releasability
+|Attribute name for accessing the metadata releasability.
+|String
+|
+|
+
+|[[_ext.resource-releasability]]ext.resource-releasability
+|Attribute name for accessing the resource releasability.
+|String
+|
+|
+
+|[[_ext.resource-originator-classification]]ext.resource-originator-classification
+|Attribute name for accessing the resource originator classification.
+|String
+|
+|
+
+|[[_ext.resource-dissemination-controls]]ext.resource-dissemination-controls
+|Attribute name for accessing the resource dissemination controls.
+|String
+|
+|
+
+|[[_ext.resource-classification-system]]ext.resource-classification-system
+|Attribute name for accessing the security classification system for the resource.
+|String
+|
+|
+
+|[[_ext.resource-classification]]ext.resource-classification
+|Attribute name for accessing the resource classification.
+|String
+|
+|
+
+|===
+

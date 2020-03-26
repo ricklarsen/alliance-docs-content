@@ -1,0 +1,10 @@
+.Architectures
+* Plugins
+** xref:architectures:plugins/audit-classified-access-plugin.adoc[Audit Controlled Access Plugin]
+** xref:architectures:plugins/default-attribute-plugin.adoc[Default Security Attribute Plugin]
+** xref:architectures:plugins/nitf-post-process-plugin.adoc[NITF Post-Process Plugin]
+** xref:architectures:plugins/nitf-render-plugin.adoc[NITF Render Plugin]
+* Transformers
+** xref:architectures:transformers/chipping-metacard-transformer.adoc[Chipping Metacard Transformer]
+** xref:architectures:transformers/mpegts-input-transformer.adoc[MPEGTS Input Transformer]
+** xref:architectures:transformers/nitf-input-transformer.adoc[NITF Input Transformer]

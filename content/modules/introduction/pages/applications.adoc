@@ -1,0 +1,12 @@
+:type: introduction
+:status: published
+:title: Applications
+:section: Applications
+:priority: 2
+:order: 00
+
+= {cal-branding} Applications
+
+{alliance-imaging} Application:: Provides support for ingesting and searching for NITF products.
+
+{alliance-video} Application:: Provides support for ingesting and searching for MPEG-TS products.

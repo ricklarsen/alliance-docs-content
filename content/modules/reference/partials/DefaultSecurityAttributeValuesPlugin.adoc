@@ -1,0 +1,25 @@
+:title: Default Security Attribute Values Plugin
+:id: org.codice.alliance.catalog.plugin.defaultsecurity.DefaultSecurityAttributeValuesPlugin
+:type: table
+:status: published
+:application: {alliance-security}
+:summary: Default Security Attribute Values Plugin configurations.
+
+.[[_org.codice.alliance.catalog.plugin.defaultsecurity.DefaultSecurityAttributeValuesPlugin]]Default Security Attribute Values Plugin Configurations
+[cols="1,1m,1,3,1,1" options="header"]
+|===
+|Name
+|Property
+|Type
+|Description
+|Default Value
+|Required
+
+|Attribute Mappings
+|attributeMappings
+|String
+|Mapping of System High attributes to use in case metacards are ingested without any security marking.
+|security.classification=classification,security.releasability=releasableTo,security.codewords=sciControls,security.dissemination-controls=disseminationControls,security.other-dissemination-controls=otherDisseminationControls,security.owner-producer=ownerProducer
+|true
+
+|===

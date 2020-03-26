@@ -1,0 +1,22 @@
+:title: {alliance-security}
+:status: published
+:type: applicationReference
+:summary: Provides features to enhance security.
+:order: 20
+
+= {alliance-security} Application Reference
+
+The {alliance-security} application provides features to enhance security.
+
+== Prerequisites for {alliance-security}
+
+None.
+
+== Installing {alliance-security}
+
+Install the {alliance-security} application through the {admin-console}.
+
+. Navigate to the *{admin-console}*.
+. Select the *System* tab.
+. Select the *Features* tab.
+. Install the `security-app` feature.

@@ -1,0 +1,44 @@
+:title: MPEGTS Input Transformer
+:type: transformer
+:subtype: input
+:status: published
+:link: _mpegts_input_transformer
+:summary: Extracts STANAG-4609 metadata from MPEG-TS files.
+
+= MPEGTS Input Transformer
+The MPEGTS Input Transformer extracts STANAG-4609 metadata from MPEG-TS files.
+
+.MPEGTS Input Transformer Usage
+[cols="1,2" options="header"]
+|===
+|Schema
+|Mime-types
+
+|N/A
+a|* video/mp2t
+* video/vnd.dlna.mpeg-tts
+|===
+
+== Installing the MPEGTS Input Transformer
+
+The MPEGTS Input Transformer is installed by default with a standard installation in the {alliance-video} application.
+
+To install the {alliance-video} application:
+
+. Navigate to the {admin-console}.
+. Select *Manage* applications.
+. Select the *Start* icon on the {alliance-video} application.
+
+== Configuring the MPEGTS Input Transformer
+
+To configure the MPEGTS Input Transformer:
+
+. Navigate to the *{admin-console}*.
+. Select the *{alliance-video}* application.
+. Select the *Configuration* tab.
+. Select the *MPEGTS Input Transformer*.
+
+These are the configurable properties:
+
+include::reference:partial$MpegTsInputTransformer.adoc[]
+

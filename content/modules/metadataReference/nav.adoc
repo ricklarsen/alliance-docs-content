@@ -1,0 +1,30 @@
+.Metadata References
+* Attribute Definitions
+** xref:metadataReference:isr-attributes-table.adoc[ISR Attributes]
+** xref:metadataReference:extended-attributes-table.adoc[ISR Extended Attributes]
+** xref:metadataReference:security-attributes-table.adoc[Additional Security Attributes]
+
+* xref:metadataReference:attribute-mappings.adoc[Catalog Taxonomy Attribute Mappings]
+** xref:metadataReference:NITF-table.adoc[General NITF Attribute Mappings]
+** xref:metadataReference:NITF_Header-table.adoc[NITF Header Attribute Mappings]
+
+** NITF Segment Attribute Mappings
+*** xref:metadataReference:NITF_Segment_Graphic-table.adoc[NITF Graphic Segment Attribute Mappings]
+*** xref:metadataReference:NITF_Segment_Image-table.adoc[NITF Image Segment Attribute Mappings]
+*** xref:metadataReference:NITF_Segment_Label-table.adoc[NITF Label Segment Attribute Mappings]
+*** xref:metadataReference:NITF_Segment_Symbol-table.adoc[NITF Symbol Segment Attribute Mappings]
+*** xref:metadataReference:NITF_Segment_Text-table.adoc[NITF Text Segment Attribute Mappings]
+
+** NITF TRE Attribute Mappings
+*** xref:metadataReference:NITF_TRE_ACFTB-table.adoc[NITF Aircraft Information Extension (ACFTB) TRE Attribute Mappings]
+*** xref:metadataReference:NITF_TRE_AIMIDB-table.adoc[NITF Airborne Image Identification (AIMIDB) TRE Attribute Mappings]
+*** xref:metadataReference:NITF_TRE_CSDIDA-table.adoc[NITF Dataset Identification (CSDIDA) TRE Attribute Mappings]
+*** xref:metadataReference:NITF_TRE_CSEXRA-table.adoc[NITF Exploitation Reference Data (CSEXRA) TRE Attribute Mappings]
+*** xref:metadataReference:NITF_TRE_EXPLTB-table.adoc[NITF Exploitation Related Information (EXPLTB) TRE Attribute Mappings]
+*** xref:metadataReference:NITF_TRE_HISTOA-table.adoc[NITF Softcopy History (HISTOA) TRE Attribute Mappings]
+*** xref:metadataReference:NITF_TRE_MTIRPB-table.adoc[NITF Moving Target Indiciator Report (MTIRPB) TRE Attribute Mappings]
+*** xref:metadataReference:NITF_TRE_PIAIMC-table.adoc[NITF Profile For Imagery Access Image Support Extensions (PIAIMC) TRE Attribute Mappings]
+*** xref:metadataReference:NITF_TRE_PIAPRD-table.adoc[NITF Profile For Imagery Access Product (PIAPRD) TRE Attribute Mappings]
+*** xref:metadataReference:NITF_TRE_PIATGB-table.adoc[NITF Profile For Imagery Access Target (PIATGB) TRE Attribute Mappings]
+*** xref:metadataReference:NITF_TRE_STDIDC-table.adoc[NITF Standard ID (STDIDC) TRE Attribute Mappings]
+

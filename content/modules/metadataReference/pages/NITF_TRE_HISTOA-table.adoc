@@ -1,0 +1,50 @@
+:title: NITF Softcopy History (HISTOA) TRE Attribute Mappings
+:type: subMetadataReference
+:order: 012
+:parent: Catalog Taxonomy Attribute Mappings
+:status: published
+:summary: NITF Softcopy History (HISTOA) TRE Attribute Mappings.
+
+= NITF Softcopy History (HISTOA) TRE Attribute Mappings
+
+.NITF Softcopy History (HISTOA) TRE Attribute Mappings
+[cols="5" options="header"]
+|===
+
+|NITF Field
+|Translation
+|Term
+|DataType
+|Multivalued
+
+|Tre.HISTOA.SYSTYPE
+|none
+|ext.nitf.histoa.system-type
+|String
+|true
+
+|Tre.HISTOA.PC
+|none
+|ext.nitf.histoa.prior-compression
+|String
+|true
+
+|Tre.HISTOA.PE
+|none
+|ext.nitf.histoa.prior-enhancements
+|String
+|true
+
+|Tre.HISTOA.REMAP_FLAG
+|none
+|ext.nitf.histoa.system-specific-remap
+|String
+|true
+
+|Tre.HISTOA.LUTID
+|none
+|ext.nitf.histoa.data-mapping-id
+|Integer
+|true
+
+|===

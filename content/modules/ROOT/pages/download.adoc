@@ -1,0 +1,20 @@
+= Downloads
+
+[#project-name]
+{cal-branding-lowercase}
+
+.Source Code
+****
+The Codice Foundation uses GitHub, the world's largest open-source community, to manage its collaboration and code management.
+
+https://github.com/codice/Alliance[Alliance on Github]
+****
+
+.Latest Stable Release
+****
+[#stable-version]
+Link to latest version
+
+[#download-button]
+Fetching latest version...
+****

@@ -1,0 +1,6 @@
+.xref:introduction.adoc[Introduction]
+* xref:applications.adoc[Applications]
+
+* Core Concepts
+** xref:core-concepts/service-standards.adoc[Catalog Service Standards added by ${cal-branding}]
+** xref:core-concepts/data-standards.adoc[Data Standards added by {cal-branding}]

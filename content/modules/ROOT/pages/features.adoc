@@ -1,0 +1,12 @@
+
+= {cal-branding} Features
+
+[#project-name]
+{cal-branding-lowercase}
+
+{cal-branding} includes support for these features:
+
+* NITF/NSIF (STANAG 4545) Ingest and Parsing.
+** Ingest and catalog NITF 2.1 imagery and build data-rich metacards for discovery and retrieval.
+* STANAG 4609 KLV support.
+** Ingest FMV clips and extract KLV metadata for metacard creation.

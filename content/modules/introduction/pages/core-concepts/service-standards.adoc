@@ -1,0 +1,24 @@
+:type: subCoreConcept
+:section: Core Concepts
+:status: published
+:title: Catalog Service Standards added by {cal-branding}
+:parent: Standards Supported by {branding}
+:order: 001
+
+= Catalog Service Standards added by {cal-branding}
+
+.Catalog Service Standards added by {cal-branding}
+[cols="2,1,1,1" options="header"]
+|===
+
+|Standard
+|Endpoints
+|Sources
+|Status
+
+|http://www.isotc211.org/schemas/2005/gmd/[Geographic MetaData extensible markup language (GMD)/ISO 19115:2003] {external-link}
+|
+|GMD CSW Source
+|Supported
+
+|===

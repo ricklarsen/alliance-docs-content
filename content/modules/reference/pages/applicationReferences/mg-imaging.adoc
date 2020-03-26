@@ -1,0 +1,22 @@
+:title: {alliance-imaging}
+:status: published
+:type: applicationReference
+:summary: Provides support for ingesting and searching for NITF products.
+:order: 21
+
+= {alliance-imaging} Application Reference
+
+The {alliance-imaging} Application provides support for ingesting and searching for NITF products.
+
+== {alliance-imaging} Prerequisites
+
+None.
+
+== Installing {alliance-imaging}
+
+Install the {alliance-imaging} application through the {admin-console}.
+
+. Navigate to the *{admin-console}*.
+. Select the *System* tab.
+. Select the *Features* tab.
+. Install the `imaging-app` feature.

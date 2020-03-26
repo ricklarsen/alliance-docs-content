@@ -1,0 +1,92 @@
+:title: NITF Dataset Identification (CSDIDA) TRE Attribute Mappings
+:type: subMetadataReference
+:order: 009
+:parent: Catalog Taxonomy Attribute Mappings
+:status: published
+:summary: NITF Dataset Identification (CSDIDA) TRE Attribute Mappings.
+
+= NITF Dataset Identification (CSDIDA) TRE Attribute Mappings
+
+.NITF Dataset Identification (CSDIDA) TRE Attribute Mappings
+[cols="5" options="header"]
+|===
+
+|NITF Field
+|Translation
+|Term
+|DataType
+|Multivalued
+
+|Tre.CSDIDA.PLATFORM_CODE_VEHICLE_ID
+|null if either platform code or vehicle id is empty
+|<<_isr.platform-id,isr.platform-id>>
+|String
+|false
+
+|Tre.CSDIDA.PLATFORM_CODE_VEHICLE_ID
+|null if either platform code or vehicle id is empty
+|ext.nitf.csdida.platform-code-vehicle-id
+|String
+|false
+
+|Tre.CSDIDA.DAY
+|none
+|ext.nitf.csdida.day-dataset-collection
+|Integer
+|true
+
+|Tre.CSDIDA.MONTH
+|none
+|ext.nitf.csdida.month-dataset-collection
+|String
+|true
+
+|Tre.CSDIDA.YEAR
+|none
+|ext.nitf.csdida.year-dataset-collection
+|Integer
+|true
+
+|Tre.CSDIDA.PASS
+|none
+|ext.nitf.csdida.pass-num
+|Integer
+|true
+
+|Tre.CSDIDA.OPERATION
+|none
+|ext.nitf.csdida.operation-num
+|Integer
+|true
+
+|Tre.CSDIDA.SENSOR_ID
+|none
+|ext.nitf.csdida.sensor-id
+|String
+|true
+
+|Tre.CSDIDA.PRODUCT_ID
+|none
+|ext.nitf.csdida.product-id
+|String
+|true
+
+|Tre.CSDIDA.TIME
+|none
+|ext.nitf.csdida.image-start-time
+|Date
+|true
+
+|Tre.CSDIDA.PROCESS_TIME
+|none
+|ext.nitf.csdida.process-completion-time
+|Date
+|true
+
+|Tre.CSDIDA.SOFTWARE_VERSION_NUMBER
+|none
+|ext.nitf.csdida.software-version-num
+|String
+|true
+
+|===

@@ -1,0 +1,8 @@
+:title: Hardening Checklist
+:type: referenceIntro
+:status: published
+:summary: ${cal-branding} additions to checklist of hardening steps.
+:parent: Security Hardening
+:order: 001
+
+* [ ] xref:managing:configuring/banner-markings-content-extractor.adoc#_configuring_banner_markings_extractor.adoc[Configure Banner Markings Extractor]

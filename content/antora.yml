@@ -1,0 +1,11 @@
+name: alliance-docs 
+version: 1.5.0 
+title: Alliance 
+start_page: index.adoc
+nav:
+- modules/ROOT/nav.adoc
+- modules/introduction/nav.adoc
+- modules/managing/nav.adoc
+- modules/architectures/nav.adoc
+- modules/reference/nav.adoc
+- modules/metadataReference/nav.adoc

@@ -1,0 +1,10 @@
+.Reference
+* xref:reference:hardening-checklist-contents.adoc[Hardening Checklist]
+
+* xref:reference:dependencyList/alliance-dependency-list.adoc[Dependency List]
+
+* Application Reference
+** xref:reference:applicationReferences/mg-ic-security.adoc[{alliance-security}]
+** xref:reference:applicationReferences/mg-imaging.adoc[{alliance-imaging}]
+Plugin]
+** xref:reference:applicationReferences/mg-video.adoc[{alliance-video}]

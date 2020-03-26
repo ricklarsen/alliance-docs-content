@@ -1,0 +1,21 @@
+:status: published
+:type: applicationReference
+:summary: Provides support for ingesting and searching for MPEG-TS products.
+:order: 23
+
+= {alliance-video} Application Reference
+
+The {alliance-video} application provides support for ingesting and searching for MPEG-TS products.
+
+== Prerequisites for {alliance-video}
+
+None.
+
+== Installing {alliance-video}
+
+Install the {alliance-video} application through the {admin-console}:
+
+. Navigate to the *{admin-console}*.
+. Select the *System* tab.
+. Select the *Features* tab.
+. Install the `alliance-video` feature.

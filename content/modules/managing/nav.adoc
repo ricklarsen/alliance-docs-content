@@ -1,0 +1,10 @@
+.Managing
+* Installing
+** xref:managing:installing/alliance-setup-types.adoc[Startup Types]
+
+* Configuring
+** xref:managing:configuring/banner-markings-content-extractor.adoc[Configuring Banner Markings Extractor]
+** xref:managing:configuring/configuring-security-default.adoc[Configuring Security Default Plugin]
+
+* Data Management
+** xref:managing:attributes-added-by-pre-ingest-plugins.adoc[Attributes Added by Pre-Ingest Plugins]

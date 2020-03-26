@@ -1,0 +1,38 @@
+:type: subCoreConcept
+:section: Core Concepts
+:status: published
+:title: Data Standards added by ${cal-branding}
+:parent: Standards Supported by ${branding}
+:order: 011
+
+= Data Standards added by ${cal-branding}
+
+.Data Standards added by ${cal-branding}
+[cols="2.adoc[1m.adoc[1" options="header"]
+|===
+
+|Format
+|File Extensions
+|Additional Metadata Attributes Available (if populated)
+
+|http://www.gwg.nga.mil/ntb/baseline/docs/2500c/index.html[NITF 2.0 and 2.1] {external-link}
+|ntf
+|Standard attributes and xref:metadataReference:NITF-table.adoc#_nitf_attribute_mappings.adoc[NITF Attribute Mappings]
+
+|http://www.gwg.nga.mil/ntb/baseline/docs/NSIF/[NSIF/STANAG 4545] {external-link}
+|ntf
+|Standard attributes and xref:metadataReference:NITF-table.adoc#_nitf_attribute_mappings.adoc[NITF Attribute Mappings]
+
+|http://www.gwg.nga.mil/misb/docs/nato_docs/STANAG_4609_Ed3.pdf[STANAG 4609 FMV] {external-link}
+|fmv
+|Standard attributes
+
+|UK MGMPv2
+|MGMP
+|Standard attributes
+
+|STANAG 4607 MTI
+|
+|Standard attributes
+
+|===
